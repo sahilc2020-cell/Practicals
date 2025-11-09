@@ -1,0 +1,43 @@
+Experiment No. 1
+1. Aim:
+To write a Python program to manage borrowing records of books in a library and perform 
+operations such as computing average borrowings, identifying books with highest/lowest 
+borrowings, counting members with zero borrowings, and finding the most frequently borrowed 
+book.
+
+2. Objective:
+ To manage book borrowing data using Python dictionaries.
+ To compute key metrics such as average borrowings and borrowing trends.
+ To practice statistical and analytical operations on real-world datasets.
+ To analyze time and space complexity of basic data operations.
+
+3. Problem Statement:
+Write a Python program to manage the borrowing records of books in a library. Implement the 
+following functionalities:
+1. Compute the average number of books borrowed by all library members.
+2. Find the book with the highest and lowest number of borrowings.
+3. Count the number of members who have not borrowed any books (i.e., borrow count is 
+0).
+4. Display the most frequently borrowed book (mode of borrow counts).
+5. Determine the time and space complexity of each operation.
+
+4. Outcome: Analyze list, library data structure for various operations like, insert data, count 
+total list input.
+
+5. Theory:
+A library management system helps to keep track of the usage of library resources. This lab 
+focuses on performing simple analysis over a dictionary-based dataset where:
+ Keys = Book titles or Member names.
+ Values = Borrow count.
+Key concepts used:
+ Dictionary Traversal
+ List Comprehension
+ Built-in statistical operations (statistics, collections.Counter)
+ Time and space complexity analysis
+
+8. Conclusion:
+ This lab demonstrated how Python dictionaries and built-in libraries can be used to 
+analyze library data.
+ Efficient use of list comprehension and dictionary operations enabled us to implement 
+real-world scenarios with ease.
+ Understanding time and space complexity helps optimize future applications
