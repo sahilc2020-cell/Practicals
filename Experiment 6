@@ -1,0 +1,35 @@
+Aim Create a Student Record Management System using Linked List
+
+Objective:
+To implement a Student Record Management System using a linked list data structure that can 
+perform basic operations such as Add, Delete, Update, Search, and Sort.
+Course Outcome (CO):
+Students will be able to design and implement data structures such as linked lists for managing 
+real-world data efficiently.
+
+Problem Statement:
+Design and implement a program in Python that maintains a list of student records using a singly 
+or doubly linked list. Each record should store the following details:
+ Roll Number
+ Name
+ Marks
+The system should perform operations like:
+ Adding a new student record
+ Deleting an existing student record
+ Updating student details
+ Searching a record by roll number or name
+ Sorting records based on Roll Number or Marks (ascending/descending order)
+ Displaying all student records
+
+Theory:
+A linked list is a linear data structure in which elements (nodes) are connected using pointers. 
+Each node contains:
+1. Data — actual information (e.g., student details).
+2. Link/Pointer — address/reference to the next node.
+Types of Linked Lists:
+1. Singly Linked List: Each node contains data and a pointer to the next node.
+
+Conclusion:
+The Student Record Management System using linked list was successfully implemented. 
+Various operations like Add, Delete, Update, Search, and Sort were performed efficiently 
+using the linked list data structure.
