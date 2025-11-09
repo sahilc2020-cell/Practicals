@@ -1,0 +1,39 @@
+1. Aim: Implementation of Real-Time Undo/Redo System for a Text Editing 
+Application using Stack Data Structure
+
+2. Objective:
+To design and implement a simple text editing application that supports:
+ Making changes
+ Undoing the most recent change
+ Redoing an undone change
+ Displaying the current state of the document using the Stack data structure.
+
+3. Problem Statement:
+Implementing a real-time undo/redo system for a text editing application using a Stack data 
+structure. The system should support the following operations: 
+1. Make a Change: A new change to the document is made. 
+2. Undo Action: Revert the most recent change and store it for potential redo. 
+3. Redo Action: Reapply the most recently undone action. 
+4. Display Document State: Show the current state of the document after undoing or 
+redoing an action
+
+4. Outcome: Analyze Stack Data Structure for various operations like Push And Pop to 
+perform Undo and Redo functions.
+
+5. Theory:
+A Stack is a linear data structure that follows a particular order in which the operations are 
+performed. The order may be LIFO(Last In First Out) or FILO(First In Last 
+Out). LIFO implies that the element that is inserted last, comes out first and FILO implies that 
+the element that is inserted first, comes out last.
+Basic operations we can do on a stack are:
+ Push: Adds a new element on the stack.
+ Pop: Removes and returns the top element from the stack.
+ Peek: Returns the top element on the stack.
+ isEmpty: Checks if the stack is empty.
+
+8. Conclusion:
+ The experiment successfully demonstrates how the stack data structure can be used to 
+implement an efficient Undo/Redo system in a text editor. 
+ Using two stacks (Undo and Redo), the system can revert and reapply changes while 
+maintaining a proper history of edits.
+ Size: Finds the number of elements in the stack.
