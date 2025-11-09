@@ -1,0 +1,31 @@
+AIM : Sorting Techniques
+
+OBJECTIVE
+ To understand different sorting techniques.
+PROBLEM STATEMENT :
+In a company, employee salaries are stored in a list as floating-point numbers. Write a Python 
+program that sorts the employee salaries in ascending order using the following two
+algorithms:
+• Selection Sort: Sort the salaries using the selection sort algorithm.
+• Bubble Sort: Sort the salaries using the bubble sort algorithm.
+After sorting the salaries, the program should display top five highest salaries in the company
+
+OUTCOME
+Analyze basic sorting algorithms to solve problems and evaluate their efficiency in different 
+scenarios
+
+THEORY 
+Sorting Techniques : 
+It is the process of arranging or ordering information in the ascending or descending order of 
+the key values.
+There are many different techniques available for sorting, differentiated by their efficiency 
+and space requirements. Following are some sorting techniques :
+ Bubble Sort
+ Selection Sort
+ Insertion Sort
+ Quick Sort
+ Merge Sort
+
+CONCLUSION 
+Thus we have implemented Bubble sort and selection sort technique and analyzed the results 
+for best, worst and average cases.
