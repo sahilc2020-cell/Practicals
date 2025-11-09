@@ -1,0 +1,39 @@
+Title:
+Graph Traversal using BFS and DFS
+
+Objective:
+To represent a given graph using an Adjacency Matrix and Adjacency List, and to perform 
+Breadth First Search (BFS) and Depth First Search (DFS) traversals starting from a given 
+node.
+
+Course Outcome (CO):
+Students will be able to represent graphs using adjacency matrix and adjacency list, and 
+implement traversal algorithms such as BFS and DFS effectively.
+
+Problem Statement:
+Consider a particular area in your city and identify some popular locations, say A, B, C, D, E.
+Each location represents a node in a graph, and routes between two locations represent edges.
+ Represent the graph using:
+1. Adjacency Matrix (for DFS traversal)
+2. Adjacency List (for BFS traversal)
+ Starting from location A, perform:
+o (i) Breadth First Search (BFS)
+o (ii) Depth First Search (DFS)
+ Display the order in which locations are visited.
+
+Theory:
+Graph:
+A graph is a non-linear data structure consisting of nodes (vertices) and edges (connections).
+A graph can be represented as:
+ G = (V, E), where
+o V = set of vertices (locations)
+o E = set of edges (routes between locations)
+
+Conclusion:
+The graph was successfully represented using both Adjacency Matrix and Adjacency List.
+The traversal of the graph using BFS (Queue) and DFS (Recursion) was implemented 
+successfully, providing correct visiting sequences of all nodes.
+
+Result:
+The BFS and DFS traversal algorithms were successfully implemented on a graph representing 
+real-world locations using adjacency matrix and adjacency list representations.
