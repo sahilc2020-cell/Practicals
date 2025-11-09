@@ -1,0 +1,31 @@
+AIM : Searching Techniques
+
+OBJECTIVE
+ To understand different searching techniques.
+PROBLEM STATEMENT :
+In an e-commerce system, customer account IDs are stored in a list, and you are tasked with
+writing a program that implements the following:
+• Linear Search: Check if a particular customer account ID exists in the list.
+• Binary Search: Implement Binary search to find if a customer account ID exists, improving 
+the search efficiency over the basic linear.
+
+OUTCOME
+Analyze basic searching algorithms to solve problems and evaluate their efficiency in 
+different scenarios
+
+THEORY 
+Searching Techniques : 
+Searching is the process of finding a given value position in a list of values. It decides
+whether a search key is present in the data or not. It is the algorithmic process of finding a 
+particular item in a collection of items.
+Different Searching techniques are,
+ Linear Search
+ Binary Search
+ Fibonacci Search
+1. Linear Search: a linear search or sequential search is a method for finding an element 
+within a list. It sequentially checks each element of the list until a match is found or the 
+whole list has been searched. Time Complexity is O(n).
+
+CONCLUSION 
+Thus we have implemented linear search and binary search technique and analyzed 
+the results for best, worst and average cases.
