@@ -1,0 +1,41 @@
+Title: Implement Various Operations on a Binary Search Tree (BST) such as Insertion, 
+Deletion, Display, and Search
+
+Objective: To implement and perform basic operations on a Binary Search Tree (BST)
+such as Insertion, Deletion, Display (Traversal), and Search using Python.
+
+Course Outcome (CO): Students will be able to construct and manipulate a Binary 
+Search Tree and perform standard operations such as insertion, deletion, and searching 
+efficiently.
+
+Problem Statement: Design and implement a program in Python to perform various 
+operations on a Binary Search Tree (BST).
+The operations to be implemented are:
+1. Insertion of nodes
+2. Deletion of nodes
+3. Search for a given value
+4. Display the tree using Inorder, Preorder, and Postorder traversals
+
+Theory: Binary Search Tree (BST):
+A Binary Search Tree is a non-linear data structure that stores elements (called nodes) in a 
+hierarchical manner.
+Each node contains:
+ A data value
+ A left child
+ A right child
+BST Property:
+For any node N in the BST:
+ All nodes in the left subtree have values less than N.
+ All nodes in the right subtree have values greater than N.
+Operations on BST:
+1. Insertion:
+o Start from the root.
+o If the new value is less than the root, move to the left subtree; else move to the 
+right subtree.
+
+Conclusion: The program successfully implements all the major operations on a Binary 
+Search Tree, including insertion, search, deletion, and display (traversal).
+The BST maintains sorted order, and traversal methods confirm proper tree structure.
+
+Result: A Binary Search Tree was successfully constructed, and the operations (insert, 
+search, delete, display) were performed correctly with expected results.
